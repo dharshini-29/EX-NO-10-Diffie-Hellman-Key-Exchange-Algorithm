@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0f02bfa5-d74a-48c5-b4e8-25fc8f8e3dd4)# EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
@@ -64,6 +62,5 @@ int main() {
 
 
 ## Result:
-The program is successfully executed.
   The program is executed successfully
 
