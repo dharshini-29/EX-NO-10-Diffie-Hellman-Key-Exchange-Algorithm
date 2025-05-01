@@ -1,5 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-
+## NAME: DHARSHINI K
+## REG NUM: 212223220017
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
